@@ -1,0 +1,38 @@
+button{
+    background-color: aliceblue;
+    font-size: large;
+}
+
+button:hover{
+    background-color: antiquewhite;
+}
+
+a:hover{
+    color: cornflowerblue;
+}
+
+.title{
+    text-align: center;
+}
+
+.recipes{
+    margin: auto;
+    width: 300px;
+    font-size: x-large;
+    background-color: aquamarine;
+}
+
+.desc-container{
+    font-size: larger;
+    background-color: beige;
+}
+
+.ingredient-container, .recipe-container{
+    width: 600px;
+    font-size: x-large;
+    background-color: rgb(231, 231, 0);
+}
+
+.ingredient-container h4, .recipe-container h4{
+    background-color: rgb(207, 207, 0);
+}
